@@ -1,3 +1,5 @@
 # student-github-test
 
 Hello, I'm Yu Zhijing. I'm from China. I am currently studying Computer Science. I love open-source and Linux.
+
+[My detailed bio](documents/bio.txt)
