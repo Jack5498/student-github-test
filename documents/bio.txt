@@ -1,0 +1,4 @@
+Country: China
+Interests: Artificial intelligence, open-source, backend development
+Studies:  Linux system \ Business Automation \ Mathematics
+Reading, swimming, photography
